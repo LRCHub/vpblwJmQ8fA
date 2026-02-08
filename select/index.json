@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "零[Hz] 『fetus』MUSIC VIDEO",
+  "base_artist": "零[Hz]",
+  "createdAt": "2026-02-08T15:43:31.656691Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "零魂遊戯",
+      "artist": "零次元アイドル",
+      "has_synced": false,
+      "path": "select/pl_01_零魂遊戯_零次元アイドル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "零式純情Turning!",
+      "artist": "零次元アイドル",
+      "has_synced": false,
+      "path": "select/pl_02_零式純情Turning!_零次元アイドル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "零魂遊戯",
+      "artist": "零次元アイドル",
+      "has_synced": false,
+      "path": "select/pl_03_零魂遊戯_零次元アイドル.txt"
+    }
+  ]
+}
